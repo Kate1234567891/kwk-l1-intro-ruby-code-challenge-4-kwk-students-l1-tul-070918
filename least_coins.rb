@@ -1,7 +1,7 @@
-#write out your code here
+type_coins = ["quarter", "dime", "nickels", "pennies"]
+price = [25, 10, 5, 1]
 
-def least_coins(cents)
-
-#Code your answer here!
+def least_coins(29)
+  
 
 end
